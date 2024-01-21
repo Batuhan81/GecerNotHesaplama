@@ -1,0 +1,10 @@
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\bin\Debug\GeçerNotHesap.exe.config
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\bin\Debug\GeçerNotHesap.exe
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\bin\Debug\GeçerNotHesap.pdb
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\obj\Debug\GeçerNotHesap.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\obj\Debug\GeçerNotHesap.Form1.resources
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\obj\Debug\GeçerNotHesap.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\obj\Debug\GeçerNotHesap.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\obj\Debug\GeçerNotHesap.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\obj\Debug\GeçerNotHesap.exe
+C:\Users\Batuhan\Desktop\GeçerNotHesap\GeçerNotHesap\obj\Debug\GeçerNotHesap.pdb
